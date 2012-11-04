@@ -1,0 +1,10 @@
+{
+    "name"    : "webapps-jquery-maphilight-lib", 
+    "version" : "0.1.0",
+    "classes" : ["JQueryMapHilight"],
+    "static"  : ["jquery-maphilight-lib"],
+    "deps"    : [
+        "webapps-framework-lib",
+	"webapps-jquery-lib"
+    ]
+}
